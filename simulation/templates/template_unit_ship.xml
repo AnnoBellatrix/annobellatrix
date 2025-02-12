@@ -3,7 +3,7 @@
   <Decay>
     <SinkingAnim>true</SinkingAnim>
     <DelayTime>0.0</DelayTime>
-    <SinkRate>0.5</SinkRate>
+    <SinkRate>0.0</SinkRate>
     <SinkAccel>7.0</SinkAccel>
   </Decay>
   <Footprint replace="">

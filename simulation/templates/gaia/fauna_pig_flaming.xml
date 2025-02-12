@@ -2,7 +2,7 @@
 <Entity parent="gaia/fauna_pig">
   <Decay>
     <DelayTime>10.0</DelayTime>
-    <SinkRate>0.05</SinkRate>
+    <SinkRate>0.00</SinkRate>
     <SinkAccel>0.1</SinkAccel>
   </Decay>
   <Health>
