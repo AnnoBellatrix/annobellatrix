@@ -1,8 +1,8 @@
 {
-	"name": "0ad",
+	"name": "annobellatrix",
 	"version": "0.0.26",
-	"label": "0 A.D. Empires Ascendant",
-	"url": "https://play0ad.com",
-	"description": "A free, open-source, historical RTS game.",
+	"label": "AnnoBellatrix",
+	"url": "https://github.com/annobellatrix",
+	"description": "Simulate mass battles between women warriors in the 0AD Atlas Scenario Editor. Used to produce the images at https://deviantart.com/annobellatrix. Best run from the command line by entering '0ad -editor -mod=\"annobellatrix\"'.  NOT INTENDED FOR GAME PLAY AND WILL PROBABLY BREAK IT.",
 	"dependencies": []
 }
