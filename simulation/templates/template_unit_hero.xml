@@ -9,9 +9,6 @@
       <RestrictedClasses datatype="tokens">Field Palisade Wall</RestrictedClasses>
     </Capture>
   </Attack>
-  <Auras datatype="tokens">
-    units/heroes/hero_garrison
-  </Auras>
   <Cost>
     <Population>0</Population>
     <BuildTime>50</BuildTime>

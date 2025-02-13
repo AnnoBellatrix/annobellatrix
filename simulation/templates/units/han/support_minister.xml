@@ -19,12 +19,6 @@
       <PreferredClasses datatype="tokens">Unit+!Ship</PreferredClasses>
     </Melee>
   </Attack>
-  <Auras datatype="tokens">
-    units/han_minister_garrison
-    units/han_minister_gathering
-    units/han_minister_building
-    units/han_minister_garrison_ministry
-  </Auras>
   <Cost>
     <Population>2</Population>
     <BuildTime>15</BuildTime>

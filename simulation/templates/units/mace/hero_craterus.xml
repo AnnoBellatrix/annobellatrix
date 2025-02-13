@@ -5,9 +5,6 @@
       <AttackName context="Name of an attack using a single-edged sword.">Sword</AttackName>
     </Melee>
   </Attack>
-  <Auras datatype="tokens">
-    units/heroes/mace_hero_craterus
-  </Auras>
   <Identity>
     <Civ>mace</Civ>
     <Lang>greek</Lang>
