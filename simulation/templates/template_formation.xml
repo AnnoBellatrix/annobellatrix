@@ -73,7 +73,7 @@
   </UnitMotion>
   <VisualActor>
     <Actor>props/units/standards/formation.xml</Actor>
-    <SilhouetteDisplay>true</SilhouetteDisplay>
+    <SilhouetteDisplay>false</SilhouetteDisplay>
     <SilhouetteOccluder>false</SilhouetteOccluder>
     <VisibleInAtlasOnly>false</VisibleInAtlasOnly>
   </VisualActor>

@@ -142,7 +142,7 @@
     <Bribable>false</Bribable>
   </VisionSharing>
   <VisualActor>
-    <SilhouetteDisplay>true</SilhouetteDisplay>
+    <SilhouetteDisplay>false</SilhouetteDisplay>
     <SilhouetteOccluder>false</SilhouetteOccluder>
     <VisibleInAtlasOnly>false</VisibleInAtlasOnly>
   </VisualActor>
