@@ -97,9 +97,7 @@
   <TerritoryDecay>
     <DecayRate op="mul">2</DecayRate>
   </TerritoryDecay>
-  <TerritoryInfluence>
-    <Radius>80</Radius>
-  </TerritoryInfluence>
+  <TerritoryInfluence disable="" />
   <Trainer>
     <BatchTimeModifier>0.8</BatchTimeModifier>
   </Trainer>

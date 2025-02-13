@@ -30,11 +30,7 @@
   </Obstruction>
   <ProductionQueue disable=""/>
   <Researcher disable=""/>
-  <TerritoryInfluence>
-    <Root>false</Root>
-    <Radius>40</Radius>
-    <Weight>65535</Weight>
-  </TerritoryInfluence>
+  <TerritoryInfluence disable="" />
   <Trainer disable=""/>
   <Vision>
     <Range>20</Range>

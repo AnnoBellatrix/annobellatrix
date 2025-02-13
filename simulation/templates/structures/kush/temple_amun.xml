@@ -35,9 +35,7 @@
   <Obstruction>
     <Static width="28" depth="56.0"/>
   </Obstruction>
-  <TerritoryInfluence>
-    <Radius op="mul">2</Radius>
-  </TerritoryInfluence>
+  <TerritoryInfluence disable="" />
   <Trainer>
     <Entities datatype="tokens">
       -units/{civ}/support_healer_b

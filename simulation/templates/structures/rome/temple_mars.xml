@@ -17,9 +17,7 @@
   <Obstruction>
     <Static width="20.0" depth="40.0"/>
   </Obstruction>
-  <TerritoryInfluence>
-    <Radius op="add">12</Radius>
-  </TerritoryInfluence>
+  <TerritoryInfluence disable="" />
   <VisualActor>
     <Actor>structures/romans/temple_mars.xml</Actor>
   </VisualActor>

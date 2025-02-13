@@ -58,10 +58,7 @@
       <constructed>interface/complete/building/complete_forge.xml</constructed>
     </SoundGroups>
   </Sound>
-  <TerritoryInfluence>
-    <Radius>38</Radius>
-    <Weight>30000</Weight>
-  </TerritoryInfluence>
+  <TerritoryInfluence disable="" />
   <Vision>
     <Range>32</Range>
   </Vision>

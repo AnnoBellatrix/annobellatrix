@@ -25,10 +25,7 @@
   <Population>
     <Bonus>10</Bonus>
   </Population>
-  <TerritoryInfluence>
-    <Radius>20</Radius>
-    <Weight>40000</Weight>
-  </TerritoryInfluence>
+  <TerritoryInfluence disable="" />
   <VisualActor>
     <FoundationActor>structures/fndn_4x4.xml</FoundationActor>
   </VisualActor>

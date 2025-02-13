@@ -43,11 +43,7 @@
       <constructed>interface/complete/building/complete_broch.xml</constructed>
     </SoundGroups>
   </Sound>
-  <TerritoryInfluence>
-    <Root>true</Root>
-    <Radius>38</Radius>
-    <Weight>40000</Weight>
-  </TerritoryInfluence>
+  <TerritoryInfluence disable="" />
   <Trainer disable=""/>
   <Vision>
     <Range>40</Range>

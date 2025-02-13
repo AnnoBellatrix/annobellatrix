@@ -38,11 +38,7 @@
   <Obstruction>
     <Static width="28.0" depth="20.0"/>
   </Obstruction>
-  <TerritoryInfluence>
-    <Root>false</Root>
-    <Radius>40</Radius>
-    <Weight>65535</Weight>
-  </TerritoryInfluence>
+  <TerritoryInfluence disable="" />
   <Vision>
     <Range>40</Range>
   </Vision>

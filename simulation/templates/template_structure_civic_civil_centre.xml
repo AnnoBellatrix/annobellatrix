@@ -131,11 +131,7 @@
       <attack_impact_ranged>attack/impact/arrow_impact.xml</attack_impact_ranged>
     </SoundGroups>
   </Sound>
-  <TerritoryInfluence>
-    <Root>true</Root>
-    <Radius>140</Radius>
-    <Weight>10000</Weight>
-  </TerritoryInfluence>
+  <TerritoryInfluence disable="" />
   <Trainer>
     <BatchTimeModifier>0.8</BatchTimeModifier>
     <Entities datatype="tokens">

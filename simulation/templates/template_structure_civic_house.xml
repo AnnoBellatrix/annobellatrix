@@ -56,11 +56,7 @@
   <StatusBars>
     <HeightOffset>8.0</HeightOffset>
   </StatusBars>
-  <TerritoryInfluence>
-    <Root>false</Root>
-    <Radius>16</Radius>
-    <Weight>65535</Weight>
-  </TerritoryInfluence>
+  <TerritoryInfluence disable="" />
   <Trainer>
     <Entities datatype="tokens">
       units/{civ}/support_female_citizen_house

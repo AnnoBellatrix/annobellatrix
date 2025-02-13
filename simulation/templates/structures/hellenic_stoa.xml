@@ -34,11 +34,7 @@
   <ProductionQueue disable=""/>
   <RallyPoint disable=""/>
   <Researcher disable=""/>
-  <TerritoryInfluence>
-    <Root>false</Root>
-    <Radius>36</Radius>
-    <Weight>65535</Weight>
-  </TerritoryInfluence>
+  <TerritoryInfluence disable="" />
   <Trainer disable=""/>
   <Vision>
     <Range>40</Range>

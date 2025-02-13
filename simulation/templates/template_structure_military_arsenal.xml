@@ -48,9 +48,7 @@
       <select>interface/select/building/sel_barracks.xml</select>
     </SoundGroups>
   </Sound>
-  <TerritoryInfluence>
-    <Radius>38</Radius>
-  </TerritoryInfluence>
+  <TerritoryInfluence disable="" />
   <Trainer>
     <BatchTimeModifier>0.7</BatchTimeModifier>
     <Entities datatype="tokens">

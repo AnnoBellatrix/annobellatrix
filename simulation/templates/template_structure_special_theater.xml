@@ -38,11 +38,7 @@
       <constructed>interface/complete/building/complete_greek_theater.xml</constructed>
     </SoundGroups>
   </Sound>
-  <TerritoryInfluence>
-    <Root>false</Root>
-    <Radius>100</Radius>
-    <Weight>40000</Weight>
-  </TerritoryInfluence>
+  <TerritoryInfluence disable="" />
   <Vision>
     <Range>40</Range>
   </Vision>

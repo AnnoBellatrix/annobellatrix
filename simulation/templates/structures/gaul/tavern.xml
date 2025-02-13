@@ -39,9 +39,7 @@
       <constructed>interface/complete/building/complete_broch.xml</constructed>
     </SoundGroups>
   </Sound>
-  <TerritoryInfluence>
-    <Radius>30</Radius>
-  </TerritoryInfluence>
+  <TerritoryInfluence disable="" />
   <VisualActor>
     <Actor>structures/celts/tavern.xml</Actor>
     <FoundationActor>structures/fndn_6x6.xml</FoundationActor>

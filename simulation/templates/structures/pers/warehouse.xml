@@ -14,9 +14,7 @@
   <Obstruction>
     <Static width="24.0" depth="24.0"/>
   </Obstruction>
-  <TerritoryInfluence>
-    <Radius>30</Radius>
-  </TerritoryInfluence>
+  <TerritoryInfluence disable="" />
   <VisualActor>
     <Actor>props/structures/persians/alt_building_01.xml</Actor>
   </VisualActor>

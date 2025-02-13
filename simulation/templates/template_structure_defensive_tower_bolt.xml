@@ -73,9 +73,5 @@
       <attack_impact_ranged>attack/impact/arrow_metal.xml</attack_impact_ranged>
     </SoundGroups>
   </Sound>
-  <TerritoryInfluence>
-    <Root>false</Root>
-    <Radius>32</Radius>
-    <Weight>30000</Weight>
-  </TerritoryInfluence>
+  <TerritoryInfluence disable="" />
 </Entity>

@@ -40,9 +40,7 @@
   <StatusBars>
     <HeightOffset>17.0</HeightOffset>
   </StatusBars>
-  <TerritoryInfluence>
-    <Radius>38</Radius>
-  </TerritoryInfluence>
+  <TerritoryInfluence disable="" />
   <VisualActor>
     <Actor>structures/iberians/scout_tower.xml</Actor>
     <FoundationActor>structures/fndn_4x4.xml</FoundationActor>

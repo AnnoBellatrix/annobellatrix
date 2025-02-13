@@ -70,11 +70,7 @@
     </Rates>
     <Interval>2000</Interval>
   </ResourceTrickle>
-  <TerritoryInfluence>
-    <Root>true</Root>
-    <Radius>60</Radius>
-    <Weight>30000</Weight>
-  </TerritoryInfluence>
+  <TerritoryInfluence disable="" />
   <Trainer>
     <BatchTimeModifier>0.8</BatchTimeModifier>
     <Entities datatype="tokens">

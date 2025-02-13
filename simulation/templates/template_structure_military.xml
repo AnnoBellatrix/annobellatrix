@@ -20,9 +20,5 @@
       </Damage>
     </Entity>
   </Resistance>
-  <TerritoryInfluence>
-    <Root>false</Root>
-    <Radius>50</Radius>
-    <Weight>40000</Weight>
-  </TerritoryInfluence>
+  <TerritoryInfluence disable="" />
 </Entity>

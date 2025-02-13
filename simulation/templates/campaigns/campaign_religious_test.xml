@@ -17,11 +17,7 @@
   </Obstruction>
   <ProductionQueue disable=""/>
   <Researcher disable=""/>
-  <TerritoryInfluence>
-    <Root>true</Root>
-    <Radius>100</Radius>
-    <Weight>65535</Weight>
-  </TerritoryInfluence>
+  <TerritoryInfluence disable="" />
   <Trainer disable=""/>
   <VisualActor>
     <Actor>structures/hellenes/temple.xml</Actor>

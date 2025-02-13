@@ -48,11 +48,7 @@
       tower_watch
     </Technologies>
   </Researcher>
-  <TerritoryInfluence>
-    <Root>false</Root>
-    <Radius>16</Radius>
-    <Weight>30000</Weight>
-  </TerritoryInfluence>
+  <TerritoryInfluence disable="" />
   <Upgrade>
     <Tower>
       <Entity>structures/{civ}/defense_tower</Entity>

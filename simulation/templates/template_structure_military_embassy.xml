@@ -41,9 +41,7 @@
       <constructed>interface/complete/building/complete_gymnasium.xml</constructed>
     </SoundGroups>
   </Sound>
-  <TerritoryInfluence>
-    <Radius>25</Radius>
-  </TerritoryInfluence>
+  <TerritoryInfluence disable="" />
   <Trainer>
     <BatchTimeModifier>0.8</BatchTimeModifier>
   </Trainer>

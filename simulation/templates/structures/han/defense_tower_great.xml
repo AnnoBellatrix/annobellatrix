@@ -37,9 +37,7 @@
   <StatusBars>
     <HeightOffset>19.0</HeightOffset>
   </StatusBars>
-  <TerritoryInfluence>
-    <Radius op="add">10</Radius>
-  </TerritoryInfluence>
+  <TerritoryInfluence disable="" />
   <Upgrade disable=""/>
   <Vision>
     <Range op="add">10</Range>

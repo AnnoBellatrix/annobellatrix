@@ -81,11 +81,7 @@
       <constructed>interface/complete/building/complete_wonder.xml</constructed>
     </SoundGroups>
   </Sound>
-  <TerritoryInfluence>
-    <Root>true</Root>
-    <Radius>100</Radius>
-    <Weight>65535</Weight>
-  </TerritoryInfluence>
+  <TerritoryInfluence disable="" />
   <Vision>
     <Range>72</Range>
   </Vision>
