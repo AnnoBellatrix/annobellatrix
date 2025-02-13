@@ -3,9 +3,7 @@
   <Identity>
     <Rank>Advanced</Rank>
   </Identity>
-  <Promotion>
-    <Entity>units/pers/cavalry_axeman_e</Entity>
-  </Promotion>
+  <Promotion disable="" />
   <VisualActor>
     <Actor>units/persians/cavalry_axeman_a_m.xml</Actor>
   </VisualActor>

@@ -3,9 +3,7 @@
   <Identity>
     <Rank>Advanced</Rank>
   </Identity>
-  <Promotion>
-    <Entity>units/maur/elephant_archer_e</Entity>
-  </Promotion>
+  <Promotion disable="" />
   <VisualActor>
     <Actor>units/mauryas/elephantry_archer_a_m.xml</Actor>
   </VisualActor>

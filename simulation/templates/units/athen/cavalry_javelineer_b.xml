@@ -5,9 +5,7 @@
     <SpecificName>Pródromos</SpecificName>
     <Icon>units/athen_cavalry_javelinist.png</Icon>
   </Identity>
-  <Promotion>
-    <Entity>units/athen/cavalry_javelineer_a</Entity>
-  </Promotion>
+  <Promotion disable="" />
   <VisualActor>
     <Actor>units/athenians/cavalry_javelinist_b_m.xml</Actor>
   </VisualActor>

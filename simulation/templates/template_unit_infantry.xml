@@ -46,9 +46,7 @@
   <Position>
     <Anchor>upright</Anchor>
   </Position>
-  <Promotion>
-    <RequiredXp>100</RequiredXp>
-  </Promotion>
+  <Promotion disable="" />
   <Resistance>
     <Entity>
       <Damage>

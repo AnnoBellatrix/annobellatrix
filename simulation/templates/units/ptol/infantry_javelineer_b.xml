@@ -14,9 +14,7 @@
     <Icon>units/ptol_infantry_javelinist_merc.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
-  <Promotion>
-    <Entity>units/ptol/infantry_javelineer_a</Entity>
-  </Promotion>
+  <Promotion disable="" />
   <VisualActor>
     <Actor>units/ptolemies/infantry_javelinist_b.xml</Actor>
   </VisualActor>

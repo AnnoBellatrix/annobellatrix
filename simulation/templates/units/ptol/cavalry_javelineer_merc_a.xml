@@ -3,9 +3,7 @@
   <Identity>
     <Rank>Advanced</Rank>
   </Identity>
-  <Promotion>
-    <Entity>units/ptol/cavalry_javelineer_merc_e</Entity>
-  </Promotion>
+  <Promotion disable="" />
   <VisualActor>
     <Actor>units/ptolemies/cavalry_javelinist_a_m.xml</Actor>
   </VisualActor>

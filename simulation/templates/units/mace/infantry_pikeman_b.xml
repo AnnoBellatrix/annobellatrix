@@ -8,9 +8,7 @@
     <SpecificName>Pezétairos</SpecificName>
     <Icon>units/mace_infantry_pikeman.png</Icon>
   </Identity>
-  <Promotion>
-    <Entity>units/mace/infantry_pikeman_a</Entity>
-  </Promotion>
+  <Promotion disable="" />
   <VisualActor>
     <Actor>units/macedonians/infantry_pikeman_b.xml</Actor>
   </VisualActor>

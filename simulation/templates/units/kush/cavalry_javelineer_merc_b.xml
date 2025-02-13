@@ -20,9 +20,7 @@
     <Icon>units/kush_camel_javelinist.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
-  <Promotion>
-    <Entity>units/kush/cavalry_javelineer_merc_a</Entity>
-  </Promotion>
+  <Promotion disable="" />
   <Sound>
     <SoundGroups>
       <select>actor/fauna/animal/camel.xml</select>

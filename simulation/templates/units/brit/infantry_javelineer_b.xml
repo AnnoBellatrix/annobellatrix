@@ -14,9 +14,7 @@
     <Icon>units/brit_infantry_javelinist.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
-  <Promotion>
-    <Entity>units/brit/infantry_javelineer_a</Entity>
-  </Promotion>
+  <Promotion disable="" />
   <VisualActor>
     <Actor>units/britons/infantry_javelinist_b.xml</Actor>
   </VisualActor>

@@ -16,9 +16,7 @@
     <SpecificName>Ezpatari</SpecificName>
     <Icon>units/iber_infantry_swordsman.png</Icon>
   </Identity>
-  <Promotion>
-    <Entity>units/iber/infantry_swordsman_a</Entity>
-  </Promotion>
+  <Promotion disable="" />
   <VisualActor>
     <Actor>units/iberians/infantry_swordsman_b.xml</Actor>
   </VisualActor>

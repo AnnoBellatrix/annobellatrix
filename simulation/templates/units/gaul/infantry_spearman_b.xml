@@ -11,9 +11,7 @@
     <SpecificName>Catucos</SpecificName>
     <Icon>units/gaul_infantry_spearman.png</Icon>
   </Identity>
-  <Promotion>
-    <Entity>units/gaul/infantry_spearman_a</Entity>
-  </Promotion>
+  <Promotion disable="" />
   <VisualActor>
     <Actor>units/gauls/infantry_spearman_b.xml</Actor>
   </VisualActor>

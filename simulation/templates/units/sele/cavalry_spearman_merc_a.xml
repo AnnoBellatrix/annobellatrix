@@ -3,9 +3,7 @@
   <Identity>
     <Rank>Advanced</Rank>
   </Identity>
-  <Promotion>
-    <Entity>units/sele/cavalry_spearman_merc_e</Entity>
-  </Promotion>
+  <Promotion disable="" />
   <VisualActor>
     <Actor>units/macedonians/cavalry_spearman_a_m.xml</Actor>
   </VisualActor>

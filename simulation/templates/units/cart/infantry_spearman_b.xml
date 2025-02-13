@@ -15,9 +15,7 @@
     <SpecificName>Sǝḫīr Ḥanīt</SpecificName>
     <Icon>units/cart_infantry_spearman.png</Icon>
   </Identity>
-  <Promotion>
-    <Entity>units/cart/infantry_spearman_a</Entity>
-  </Promotion>
+  <Promotion disable="" />
   <VisualActor>
     <Actor>units/carthaginians/infantry_spearman_b.xml</Actor>
   </VisualActor>

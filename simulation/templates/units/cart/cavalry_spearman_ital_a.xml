@@ -3,9 +3,7 @@
   <Identity>
     <Rank>Advanced</Rank>
   </Identity>
-  <Promotion>
-    <Entity>units/cart/cavalry_spearman_ital_e</Entity>
-  </Promotion>
+  <Promotion disable="" />
   <VisualActor>
     <Actor>units/carthaginians/cavalry_spearman_a_m.xml</Actor>
   </VisualActor>

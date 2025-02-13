@@ -3,7 +3,5 @@
   <Identity>
     <RequiredTechnology>equine_transports</RequiredTechnology>
   </Identity>
-  <Promotion>
-    <Entity>units/pers/cavalry_javelineer_a_trireme</Entity>
-  </Promotion>
+  <Promotion disable="" />
 </Entity>

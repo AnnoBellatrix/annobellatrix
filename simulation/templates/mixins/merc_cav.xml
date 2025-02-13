@@ -9,7 +9,5 @@
   <Loot>
     <metal>9</metal>
   </Loot>
-  <Promotion>
-    <RequiredXp>300</RequiredXp>
-  </Promotion>
+  <Promotion disable="" />
 </Entity>

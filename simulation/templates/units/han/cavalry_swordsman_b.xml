@@ -6,9 +6,7 @@
     <SpecificName>Dāo Qíbīng</SpecificName>
     <Icon>units/han/cavalry_swordsman.png</Icon>
   </Identity>
-  <Promotion>
-    <Entity>units/han/cavalry_swordsman_a</Entity>
-  </Promotion>
+  <Promotion disable="" />
   <VisualActor>
     <Actor>units/han/cavalry_swordsman_b_m.xml</Actor>
   </VisualActor>

@@ -3,7 +3,5 @@
   <Identity>
     <Rank>Advanced</Rank>
   </Identity>
-  <Promotion>
-    <Entity>units/ptol/support_healer_e</Entity>
-  </Promotion>
+  <Promotion disable="" />
 </Entity>

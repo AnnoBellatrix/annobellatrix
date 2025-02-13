@@ -3,9 +3,7 @@
   <Identity>
     <Rank>Advanced</Rank>
   </Identity>
-  <Promotion>
-    <Entity>units/gaul/cavalry_javelineer_e</Entity>
-  </Promotion>
+  <Promotion disable="" />
   <VisualActor>
     <Actor>units/gauls/cavalry_javelinist_a_m.xml</Actor>
   </VisualActor>

@@ -14,9 +14,7 @@
     <SpecificName>Hoplítēs Períoikos</SpecificName>
     <Icon>units/spart_infantry_spearman.png</Icon>
   </Identity>
-  <Promotion>
-    <Entity>units/spart/infantry_spearman_a</Entity>
-  </Promotion>
+  <Promotion disable="" />
   <VisualActor>
     <Actor>units/spartans/infantry_spearman_b.xml</Actor>
   </VisualActor>

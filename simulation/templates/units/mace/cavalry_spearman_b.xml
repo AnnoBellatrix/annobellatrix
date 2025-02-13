@@ -8,9 +8,7 @@
     <SpecificName>Xystophóros Thessalikós</SpecificName>
     <Icon>units/mace_cavalry_spearman.png</Icon>
   </Identity>
-  <Promotion>
-    <Entity>units/mace/cavalry_spearman_a</Entity>
-  </Promotion>
+  <Promotion disable="" />
   <VisualActor>
     <Actor>units/macedonians/cavalry_spearman_b_m.xml</Actor>
   </VisualActor>

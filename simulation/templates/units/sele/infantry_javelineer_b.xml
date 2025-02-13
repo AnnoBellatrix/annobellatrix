@@ -9,9 +9,7 @@
     <Icon>units/sele_infantry_javelinist.png</Icon>
     <RequiredTechnology>phase_village</RequiredTechnology>
   </Identity>
-  <Promotion>
-    <Entity>units/sele/infantry_javelineer_a</Entity>
-  </Promotion>
+  <Promotion disable="" />
   <VisualActor>
     <Actor>units/seleucids/infantry_javelinist_b.xml</Actor>
   </VisualActor>

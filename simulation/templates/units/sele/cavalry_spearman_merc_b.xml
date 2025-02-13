@@ -9,9 +9,7 @@
     <Icon>units/sele_cavalry_spearman_merc.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
-  <Promotion>
-    <Entity>units/sele/cavalry_spearman_merc_a</Entity>
-  </Promotion>
+  <Promotion disable="" />
   <VisualActor>
     <Actor>units/seleucids/cavalry_spearman_b_m.xml</Actor>
   </VisualActor>

@@ -8,9 +8,7 @@
     <SpecificName>Thureophóros Politès</SpecificName>
     <Icon>units/sele_infantry_spearman_2.png</Icon>
   </Identity>
-  <Promotion>
-    <Entity>units/sele/infantry_spearman_a</Entity>
-  </Promotion>
+  <Promotion disable="" />
   <VisualActor>
     <Actor>units/seleucids/infantry_spearman_b.xml</Actor>
   </VisualActor>

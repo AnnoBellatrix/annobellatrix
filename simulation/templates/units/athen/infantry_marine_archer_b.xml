@@ -7,9 +7,7 @@
     <Icon>units/mace_infantry_archer.png</Icon>
     <RequiredTechnology>iphicratean_reforms</RequiredTechnology>
   </Identity>
-  <Promotion>
-    <Entity>units/athen/infantry_marine_archer_a</Entity>
-  </Promotion>
+  <Promotion disable="" />
   <VisualActor>
     <Actor>units/athenians/infantry_archer_b.xml</Actor>
   </VisualActor>

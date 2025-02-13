@@ -34,9 +34,7 @@
     <xp>8</xp>
     <food>25</food>
   </Loot>
-  <Promotion>
-    <RequiredXp>150</RequiredXp>
-  </Promotion>
+  <Promotion disable="" />
   <Selectable>
     <Overlay>
       <Texture>

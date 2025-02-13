@@ -6,9 +6,7 @@
     <SpecificName>Kantabriako Zaldun</SpecificName>
     <Icon>units/iber_cavalry_javelinist.png</Icon>
   </Identity>
-  <Promotion>
-    <Entity>units/iber/cavalry_javelineer_a</Entity>
-  </Promotion>
+  <Promotion disable="" />
   <VisualActor>
     <Actor>units/iberians/cavalry_javelinist_b_m.xml</Actor>
   </VisualActor>

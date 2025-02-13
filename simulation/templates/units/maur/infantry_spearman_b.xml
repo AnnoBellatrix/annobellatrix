@@ -13,9 +13,7 @@
     <SpecificName>Kauntika</SpecificName>
     <Icon>units/maur_infantry_spearman.png</Icon>
   </Identity>
-  <Promotion>
-    <Entity>units/maur/infantry_spearman_a</Entity>
-  </Promotion>
+  <Promotion disable="" />
   <VisualActor>
     <Actor>units/mauryas/infantry_spearman_b.xml</Actor>
   </VisualActor>

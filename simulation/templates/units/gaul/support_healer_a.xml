@@ -3,7 +3,5 @@
   <Identity>
     <Rank>Advanced</Rank>
   </Identity>
-  <Promotion>
-    <Entity>units/gaul/support_healer_e</Entity>
-  </Promotion>
+  <Promotion disable="" />
 </Entity>

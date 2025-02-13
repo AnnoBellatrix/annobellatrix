@@ -14,9 +14,7 @@
     <SpecificName>Akontistḗs Heílōs</SpecificName>
     <Icon>units/spart_infantry_javelinist.png</Icon>
   </Identity>
-  <Promotion>
-    <Entity>units/spart/infantry_javelineer_a</Entity>
-  </Promotion>
+  <Promotion disable="" />
   <VisualActor>
     <Actor>units/spartans/infantry_javelinist_b.xml</Actor>
   </VisualActor>

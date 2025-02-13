@@ -6,9 +6,7 @@
     <SpecificName>Psilòs Athēnaîos</SpecificName>
     <Icon>units/athen_infantry_slinger.png</Icon>
   </Identity>
-  <Promotion>
-    <Entity>units/athen/infantry_slinger_a</Entity>
-  </Promotion>
+  <Promotion disable="" />
   <VisualActor>
     <Actor>units/athenians/infantry_slinger_b.xml</Actor>
   </VisualActor>

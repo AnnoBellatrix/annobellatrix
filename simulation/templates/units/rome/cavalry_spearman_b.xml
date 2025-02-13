@@ -8,9 +8,7 @@
     <SpecificName>Eques Rōmānus</SpecificName>
     <Icon>units/rome_cavalry_spearman.png</Icon>
   </Identity>
-  <Promotion>
-    <Entity>units/rome/cavalry_spearman_a</Entity>
-  </Promotion>
+  <Promotion disable="" />
   <VisualActor>
     <Actor>units/romans/cavalry_spearman_b_m.xml</Actor>
   </VisualActor>

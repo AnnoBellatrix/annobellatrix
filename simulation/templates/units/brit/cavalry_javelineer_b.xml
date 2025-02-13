@@ -7,9 +7,7 @@
     <GenericName>Raiding Cavalry</GenericName>
     <Icon>units/brit_cavalry_javelinist.png</Icon>
   </Identity>
-  <Promotion>
-    <Entity>units/brit/cavalry_javelineer_a</Entity>
-  </Promotion>
+  <Promotion disable="" />
   <VisualActor>
     <Actor>units/britons/cavalry_javelinist_b_m.xml</Actor>
   </VisualActor>

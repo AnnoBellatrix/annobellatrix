@@ -19,9 +19,7 @@
     <Icon>units/ptol_camel_archer.png</Icon>
     <RequiredTechnology>phase_village</RequiredTechnology>
   </Identity>
-  <Promotion>
-    <Entity>units/ptol/cavalry_archer_a</Entity>
-  </Promotion>
+  <Promotion disable="" />
   <Sound>
     <SoundGroups>
       <select>actor/fauna/animal/camel_select.xml</select>

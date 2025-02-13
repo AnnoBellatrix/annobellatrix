@@ -12,10 +12,7 @@
     <SpecificName>Legiōnārius</SpecificName>
     <Icon>units/rome_champion_legion_imperial.png</Icon>
   </Identity>
-  <Promotion>
-    <Entity>units/rome/champion_infantry_swordsman_04</Entity>
-    <RequiredXp>300</RequiredXp>
-  </Promotion>
+  <Promotion disable="" />
   <VisualActor>
     <Actor>units/romans/infantry_swordsman_c3.xml</Actor>
   </VisualActor>

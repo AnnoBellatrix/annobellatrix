@@ -6,9 +6,7 @@
     <SpecificName>Kehinit</SpecificName>
     <Icon>units/cart_support_healer.png</Icon>
   </Identity>
-  <Promotion>
-    <Entity>units/cart/support_healer_a</Entity>
-  </Promotion>
+  <Promotion disable="" />
   <VisualActor>
     <Actor>units/carthaginians/healer.xml</Actor>
   </VisualActor>

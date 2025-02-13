@@ -9,9 +9,7 @@
     <Icon>units/spart_cavalry_spearman.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
-  <Promotion>
-    <Entity>units/spart/cavalry_spearman_a</Entity>
-  </Promotion>
+  <Promotion disable="" />
   <VisualActor>
     <Actor>units/spartans/cavalry_spearman_b_m.xml</Actor>
   </VisualActor>

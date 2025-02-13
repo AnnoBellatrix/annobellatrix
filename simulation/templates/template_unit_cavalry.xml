@@ -44,9 +44,7 @@
   <Position>
     <TurnRate>10</TurnRate>
   </Position>
-  <Promotion>
-    <RequiredXp>150</RequiredXp>
-  </Promotion>
+  <Promotion disable="" />
   <Resistance>
     <Entity>
       <Damage>

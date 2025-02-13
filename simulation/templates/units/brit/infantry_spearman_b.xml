@@ -7,9 +7,7 @@
     <SpecificName>Catucos</SpecificName>
     <Icon>units/brit_infantry_spearman.png</Icon>
   </Identity>
-  <Promotion>
-    <Entity>units/brit/infantry_spearman_a</Entity>
-  </Promotion>
+  <Promotion disable="" />
   <VisualActor>
     <Actor>units/britons/infantry_spearman_b.xml</Actor>
   </VisualActor>

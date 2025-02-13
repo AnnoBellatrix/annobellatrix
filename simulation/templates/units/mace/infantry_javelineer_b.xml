@@ -8,9 +8,7 @@
     <SpecificName>Peltastḗs Agrías</SpecificName>
     <Icon>units/mace_infantry_javelinist.png</Icon>
   </Identity>
-  <Promotion>
-    <Entity>units/mace/infantry_javelineer_a</Entity>
-  </Promotion>
+  <Promotion disable="" />
   <VisualActor>
     <Actor>units/macedonians/infantry_javelinist_b.xml</Actor>
   </VisualActor>

@@ -3,7 +3,5 @@
   <Identity>
     <Rank>Advanced</Rank>
   </Identity>
-  <Promotion>
-    <Entity>units/mace/support_healer_e</Entity>
-  </Promotion>
+  <Promotion disable="" />
 </Entity>
