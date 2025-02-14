@@ -62,7 +62,6 @@
   </Resistance>
   <Selectable>
     <Overlay>
-      <AlwaysVisible/>
       <Shape>
         <Circle radius="2.5"/>
       </Shape>
